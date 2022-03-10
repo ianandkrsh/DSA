@@ -59,6 +59,7 @@ class niam
 
         }
 
+        // use priority queue
         key[0] = 0;
 
         for(int i = 0;i<V-1;i++)
